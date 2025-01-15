@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm R. R. Maheshwar</h1>
 <h3 align="center">"Java Guru | Python Enthusiast | Web Designer | Cybersecurity Buff | Innovation Pioneer"</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshwar-hecker&theme=onedark&title=Commits,Repositories" alt="maheshwar-hecker" /></a> </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshwar-hecker&theme=onedark&title=Commits,Repositories" alt="maheshwar-hecker" /></a> </p>
 
 - 🔭 I’m currently working on [Discord Bots](https://github.com/Maheshwar-Hecker/Discord_Bots)
 
